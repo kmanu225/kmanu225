@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kmanu225
-- 👀 I’m interested in cybersecurity
+<h1 align="center">Hi 👋, I'm kmanu225</h1>  
+<h3 align="center">I have a strong interest in maths, cryptography, cybersecurity and programming language in general.</h3>  
 - 🌱 You can access my gitbook [here](https://kem.gitbook.io/cybersecurity)!
   
 <h3 align="left">Languages and Tools:</h3>  

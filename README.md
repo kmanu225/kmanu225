@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  More about me ➡️ <a href="https://emmanuelkonan.link/">here!</a>
+  More about me ➡️ <a href="https://kmanu225.github.io/">here!</a>
 </p>
